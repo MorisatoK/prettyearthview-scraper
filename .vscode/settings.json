@@ -1,0 +1,14 @@
+{
+    "[typescript]": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "eslint.options": {
+        "configFile": "./eslintrc.js"
+    },
+    "eslint.workingDirectories": ["./"]
+}
