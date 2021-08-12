@@ -1,5 +1,5 @@
 # prettyearthview-scraper
-Scrape metadata from Google Earth View (aka PrettyEarth)
+Scrape metadata from [Google Earth View](https://earthview.withgoogle.com/) (aka PrettyEarth)
 
 ## Install
 
